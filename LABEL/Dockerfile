@@ -1,4 +1,4 @@
-FROM alamlinux:9
+FROM almalinux:9
 LABEL COURSE="DevOps" \
       DURATION="DONE" \
       TRAINING="STARTED" \
